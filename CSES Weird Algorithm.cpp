@@ -36,6 +36,7 @@ void weirdAlgorithm(int n)
 
 signed main()
 {
+    code4_on9();
     int n;
     cin>>n;
     weirdAlgorithm(n);
